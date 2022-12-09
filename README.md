@@ -178,7 +178,7 @@ Madhu Parvathaneni alias MS is a Solutions Architect and mentor at Make Skilled.
   <tr>
     <td>2</td>
     <td>Link to Install Arduino S/W</td>
-    <td><a href="https://arduino.cc/Software">Click Here</a></td>
+    <td><a href="https://www.arduino.cc/en/software">Click Here</a></td>
   </tr>
   <tr>
     <td>3</td>
