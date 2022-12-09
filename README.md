@@ -158,7 +158,7 @@ Madhu Parvathaneni alias MS is a Solutions Architect and mentor at Make Skilled.
   <tr>
     <td>15th December</td>
     <td>1.30PM to 4.30PM</td>
-    <td>Code Diggers <br/>Codered <br/>Tech Warriors</td>
+    <td>Code Diggers <br/>Tech Warriors</td>
   </tr>
 </table>
 
