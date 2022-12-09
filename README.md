@@ -106,5 +106,33 @@ Madhu Parvathaneni alias MS is a Solutions Architect and mentor at Make Skilled.
 
 # Time Schedule in Phase -1
 
+<table>
+  <tr>
+    <th>Date</th>
+    <th>Slot Time</th>
+    <th>Team Name</th>
+  </tr>
+  <tr>
+    <td>13th December</td>
+    <td>9.30AM to 12.30PM</td>
+    <td>Exterminators <br/>Boolean Pundits <br/>Mocking Birds</td>
+  </tr>
+  <tr>
+    <td>13th December</td>
+    <td>1.30PM to 4.30PM</td>
+    <td>Technocrats <br/>Kick Bit Fever <br/>Byte Me</td>
+  </tr>
+  <tr>
+    <td>14th December</td>
+    <td>9.30AM to 12.30PM</td>
+    <td>Babes Got Byte <br/>Accessed Denied <br/>Tech Tycoons</td>
+  </tr>
+  <tr>
+    <td>14th December</td>
+    <td>1.30PM to 4.30PM</td>
+    <td>Technocrats <br/>Kick Bit Fever <br/>Byte Me</td>
+  </tr>
+</table>
+
 # For questions
 Please get in touch with me on <a href="https://linkedin.com/in/MadhuPIoT"> LinkedIn </a>
