@@ -162,5 +162,50 @@ Madhu Parvathaneni alias MS is a Solutions Architect and mentor at Make Skilled.
   </tr>
 </table>
 
+# Important Links
+
+<table>
+  <tr>
+    <th>S.No</th>
+    <th>Description</th>
+    <th>Link</th>
+  </tr>
+  <tr> 
+    <td>1</td>
+    <td>Guide to Install Arduino S/W</td>
+    <td><a href="https://github.com/maddydevgits/bits-dev-hackathon-2023/blob/main/Arduino%20Installation%20Guide%20%23MADBLOCKS%20.pdf">Click Here</a></td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Link to Install Arduino S/W</td>
+    <td><a href="https://arduino.cc/Software">Click Here</a></td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Guide to Install Visual Studio Code</td>
+    <td><a href="https://www.youtube.com/watch?v=ZmG5cugbi7w">Click Here</a></td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Link to Install Visual Studio Code</td>
+    <td><a href="https://code.visualstudio.com">Click Here</a></td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Guide to Install Python3</td>
+    <td><a href="https://www.youtube.com/watch?v=DluN8JjZwu8">Click Here</a></td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>Link to Install Python3</td>
+    <td><a href="https://python.org/downloads">Click Here</a></td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>AWS Account</td>
+    <td><a href="https://aws.amazon.com/free">Click Here</a></td>
+  </tr>
+</table>
+
 # For questions
 Please get in touch with me on <a href="https://linkedin.com/in/MadhuPIoT"> LinkedIn </a>
