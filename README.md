@@ -130,7 +130,17 @@ Madhu Parvathaneni alias MS is a Solutions Architect and mentor at Make Skilled.
   <tr>
     <td>14th December</td>
     <td>1.30PM to 4.30PM</td>
-    <td>Technocrats <br/>Kick Bit Fever <br/>Byte Me</td>
+    <td>Mind Hack <br/>Codered <br/>Tech Dudes</td>
+  </tr>
+  <tr>
+    <td>15th December</td>
+    <td>9.30AM to 12.30PM</td>
+    <td>Hugs for Bugs <br/>Int Elligence <br/>Mind Benders</td>
+  </tr>
+  <tr>
+    <td>15th December</td>
+    <td>1.30PM to 4.30PM</td>
+    <td>Code Diggers <br/>Codered <br/>Tech Warriors</td>
   </tr>
 </table>
 
