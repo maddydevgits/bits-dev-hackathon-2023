@@ -118,7 +118,7 @@ Madhu Parvathaneni alias MS is a Solutions Architect and mentor at Make Skilled.
     <td>17</td>
     <td>Babes Got Byte</td>
     <td>Eye Disease Detector Web App</td>
-    <td>1. NodeJs</td>
+    <td>1. NodeJs<br/>2. Visual Studio Code</td>
   </tr>
 </table>
 
